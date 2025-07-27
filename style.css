@@ -1,0 +1,849 @@
+.container{
+   
+}
+.card{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+#small{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#now:hover{
+    margin-bottom: 2px;
+    border: 4px solid rgb(236, 176, 22);
+}
+.imgh:hover{
+    border: 4px solid rgb(236, 176, 22);
+    border-radius: 10px; 
+}
+
+h1{
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    color: black;
+}
+.tag{
+    text-decoration: none;
+   padding-left: 940px;
+}
+.hajj1{
+    font-family: "Allura", cursive;
+    font-style: italic;
+    color: rgb(245, 178, 10);
+    font-size: 70px;
+    padding-left: 150px; 
+}
+.eid1{
+    font-family: "Allura", cursive;
+    font-style: normal;
+    color: rgb(240, 105, 150);
+    font-size: 70px;
+    padding-left: 370px; 
+}
+#wedd{
+    padding-left: 940px;
+    color: black;
+}
+#mubarak{
+    padding-left: 400px;
+    color: black;
+}
+#umrah{
+    padding-left: 340px;
+    color: black;
+}
+#in{
+    padding-left: 340px;
+    color: black;
+}
+.wedd1{
+    font-family: "Allura", cursive;
+    font-style: normal;
+    color: rgb(247, 180, 99);
+    font-size: 70px;
+    padding-left: 240px;
+}
+.birthday1{
+    font-family: "Allura", cursive;
+    font-style: normal;
+    color: rgb(95, 94, 94);
+    font-size: 70px;
+    padding-left: 240px;
+}
+#thank1{
+    font-family: "Allura", cursive;
+    font-style: normal;
+    color: rgb(110, 243, 110);
+    font-size: 70px;
+    padding-left: 240px;
+}
+#card1{
+    font-family: "Allura", cursive;
+    font-style: normal;
+    color: brown;
+    font-size: 65px;
+    padding-left: 140px;
+}
+#birthday{
+    padding-left: 400px;
+    color: black;
+}
+#you{
+    padding-left: 450px;
+    color: black;
+}
+#party{
+    padding-left: 360px;
+    color: black;
+}
+.imge:hover{
+    border-radius: 10px;
+    border: 4px solid rgb(238, 113, 154);
+}
+.imgw:hover{
+    border-radius: 10px;
+    border: 4px solid rgb(245, 194, 131);
+}
+.imgb:hover{
+    border: 4px solid rgb(99, 95, 95);
+    border-radius: 10px;
+}
+.imgt:hover{
+    border: 4px solid rgb(160, 245, 160);
+    border-radius: 10px;
+}
+.imgp:hover{
+    border: 4px solid brown;
+    border-radius: 10px;
+}
+#back{
+    text-decoration: none;
+    color: white;   
+}
+.backg{
+    height: 1000px;
+    background-image: url(hajj\ back.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    animation-name: sample5;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.cen{
+    color: white;
+    text-align: left;
+    position: relative;
+    top: 100px;
+    padding-left: 110px;
+    padding-top: 80px;
+    animation-name: sample5;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.text{
+    font-size: 80px;
+    font-family: "Agu Display", serif;
+}
+.backg:hover{
+    border: 4px solid goldenrod;
+}
+@keyframes sample5{
+    from{border-radius: 0%;}
+    to{border-radius: 40%; color: goldenrod;}
+}
+.backg1{
+    height: 1000px;
+    background-image: url(eid\ back.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    animation-name: sample4;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.cen1{
+    color: rgb(224, 48, 107);
+    text-align: left;
+    position: relative;
+    top: 100px;
+    padding-left: 190px;
+    padding-top: 80px;
+    animation-name: sample4;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.text1{
+    font-size: 110px;
+    font-family: "Agu Display", serif;
+}
+.backg1:hover{
+    border: 4px solid rgb(231, 99, 143);
+}
+@keyframes sample4{
+    from{border-radius: 0%;}
+    to{border-radius: 40%; color: gold;}
+}
+.backg2{
+    height: 1000px;
+    background-image: url(wedding\ back.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    animation-name: sample3;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.cen2{
+    color: rgb(247, 175, 89);
+    text-align: left;
+    position: relative;
+    top: 100px;
+    padding-left: 190px;
+    padding-top: 80px;
+    animation-name: sample3;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.text2{
+    font-size: 110px;
+    font-family: "Agu Display", serif;
+}
+.backg2:hover{
+    border: 4px solid rgb(248, 200, 142);
+}
+@keyframes sample3{
+    from{border-radius: 0%;}
+    to{border-radius: 40%; color: rgb(175, 3, 175);}
+}
+.backg3{
+    height: 1000px;
+    background-image: url(birthday\ back.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    animation-name: sample2;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.cen3{
+    color: white;
+    text-align: left;
+    position: relative;
+    top: 100px;
+    padding-left: 370px;
+    padding-top: 130px;
+    animation-name: sample2;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.backg3:hover{
+    border: 4px solid rgb(94, 94, 94);
+}
+.text3{
+    font-size: 110px;
+    font-family: "Agu Display", serif;
+}
+@keyframes sample2{
+    from{border-radius: 0%;}
+    to{border-radius: 40%; color: rgb(240, 186, 51);}
+}
+.backg4{
+    height: 1000px;
+    background-image: url(thank\ back.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    animation-name: sample1;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.cen4{
+    color: rgb(253, 181, 193);
+    text-align: left;
+    position: relative;
+    top: 100px;
+    padding-left: 370px;
+    padding-top: 130px;
+    animation-name: sample1;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.text4{
+    font-size: 110px;
+    font-family: "Agu Display", serif;
+}
+.backg4:hover{
+    border: 4px solid rgb(57, 243, 57);
+}
+@keyframes sample1{
+    from{border-radius: 0%;}
+    to{border-radius: 40%; color: rgb(21, 238, 21);}
+}
+.backg5{
+    height: 1000px;
+    background-image: url(card\ back.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    animation-name: sample;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.cen5{
+    color: rgb(235, 184, 57);
+    text-align: left;
+    position: relative;
+    top: 100px;
+    padding-left: 140px;
+    padding-top: 120px;
+    animation-name: sample;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out
+}
+.text5{
+    font-size: 110px;
+    font-family: "Agu Display", serif;
+}
+.party5{
+    font-size: 110px;
+    font-family: "Agu Display", serif;
+    padding-left: 200px;
+}
+.backg5:hover{
+    border: 4px solid brown;
+}
+@keyframes sample{
+    from{border-radius: 0%;}
+    to{border-radius: 40%; color: brown;}
+}
+body{
+    margin: 0;
+    font-family: arial, sans-serif;
+    box-sizing: border-box;
+    background-color: white;
+    color: #f1f1f1;
+}
+.benefits-section{
+  background-color: #1f1f1f;
+  padding: 0px 20px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.benefits-section h2 {
+    font-size: 2.5rem;
+    color: #ff9800;
+    margin-bottom: 0px;
+}
+.benefits-section p {
+    font-size: 1.1rem;
+    color: #bbb;
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.benefits-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit ,minmax(250px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    max-height: 1800px;
+    margin: 0 auto;
+}
+.benefit-item {
+    background: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 340px;
+}
+.benefit-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+.benefit-icon {
+    font-size: 3rem;
+    color: #ff9800;
+    margin-bottom: 15px;
+}
+.benefit-title{
+    font-size: 1.3rem;
+    color: #ff9800;
+}
+.benefit-description{
+    font-size: 1rem;
+    color: #bbb;
+}
+.occa{
+    color: black;
+    text-align: center;
+}
+#about .card {
+    border-radius: 10px;
+    border: none;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 100px;
+
+}
+
+#about .card img {
+    border-radius: 10px;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 0px;
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.1);
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+#about1 .card {
+    border: none;
+}
+
+#about1 .card img {
+    border-radius: 10px;
+    height: 330px;
+    width: 360px;
+    position: relative;
+    left: 110px;
+    bottom: 10px;
+
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.1);
+}
+
+
+#about1 h3 {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+#about1 p {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+#about3 .card {
+    border-radius: 10px;
+    border: none;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 80px;
+
+}
+
+#about3 .card img {
+    border-radius: 10px;
+    height: 330px;
+    width: 370Px;
+    position: relative;
+    left: 30px;
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.1);
+}
+
+#about3 h3 {
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+
+#about3 p {
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+#about4 .card {
+    border: none;
+}
+
+#about4 .card img {
+    border-radius: 10px;
+    height: 330px;
+    width: 360px;
+    position: relative;
+    left: 110px;
+    bottom: 10px;
+
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.1);
+}
+
+#about4 h3 {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+#about4 p {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+#about5 .card {
+    border: none;
+}
+
+#about5 .card img {
+    border-radius: 10px;
+    height: 330px;
+    width: 360px;
+    position: relative;
+    left: 110px;
+    bottom: 15px;
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.1);
+}
+
+#about5 h3 {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+#about5 p {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+#about6 .card {
+    border-radius: 10px;
+    border: none;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 80px;
+
+}
+
+#about6 .card img {
+    border-radius: 10px;
+    height: 330px;
+    width: 370Px;
+    position: relative;
+    left: 30px;
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.1);
+}
+
+#about6 h3 {
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+
+#about6 p {
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+#about7 .card {
+    border: none;
+}
+
+#about7 .card img {
+    border-radius: 10px;
+    height: 330px;
+    width: 360px;
+    position: relative;
+    left: 110px;
+    bottom: 10px;
+
+}
+
+.img-hover {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover {
+    transform: scale(1.1);
+}
+
+#about7 h3 {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+#about7 p {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+#about8 .card {
+    border-radius: 10px;
+    border: none;
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 80px;
+
+}
+
+#about8 .card img {
+    border-radius: 10px;
+    height: 330px;
+    width: 370Px;
+    position: relative;
+    left: 30px;
+}
+
+#about8 h3 {
+    position: relative;
+    top: 50px;
+    left: 10px;
+
+}
+
+#about8 p {
+    position: relative;
+    top: 30px;
+    left: 10px;
+
+
+}
+
+.hover-paragraph:hover {
+    color: #ecbb61;
+    background-color: #7c7c7c;
+    cursor: pointer;
+}
+
+*{
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border-radius: 40px;
+    
+    
+}
+
+#link{
+
+text-decoration: none;
+color: bisque;
+margin-left: 10px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#icon-1{
+
+    font-size: 40px;
+    color: blue;
+    padding-left: 40px;
+}
+
+#icon-2{
+
+    font-size: 40px;
+    color: rgb(0, 209, 0);
+    padding-left: 40px;
+    padding-top: 10px;
+   
+}
+
+#icon-3{
+
+    font-size: 40px;
+  color: rgb(32, 203, 255);
+  padding-left: 40px;
+  padding-top: 10px;
+   
+}
+
+#icon-4{
+
+    font-size: 40px;
+    color: rgb(184, 10, 117);
+    padding-left: 40px;
+    padding-top: 10px;
+   
+}
+
+#icon-5{
+
+    font-size: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+   
+}
+
+
+
+
+.icony:hover{
+     border: 2px solid rgb(56, 56, 56);
+    border-radius: 20px;
+    cursor: pointer;
+     
+   
+
+}
+
+.follow{
+    background-color: rgb(78, 78, 78);
+    color: bisque;
+}
+.follow:hover{
+    border: 4px solid rgb(129, 129, 248);
+}
+footer{
+    border: 3px solid gray;
+    background-color: rgb(31, 30, 30);
+    color: white;
+    height: 350px;
+}
+.anchor{
+    text-decoration: none;
+    color: gray;
+    padding-right: 50px;
+   
+}
+
+
+
+
+
+
+
